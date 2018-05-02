@@ -1,0 +1,10 @@
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Grader\bin\Debug\netcoreapp2.0\Grader.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Grader\bin\Debug\netcoreapp2.0\Grader.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Grader\bin\Debug\netcoreapp2.0\Grader.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Grader\bin\Debug\netcoreapp2.0\Grader.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Grader\bin\Debug\netcoreapp2.0\Grader.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Grader\obj\Debug\netcoreapp2.0\Grader.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Grader\obj\Debug\netcoreapp2.0\Grader.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Grader\obj\Debug\netcoreapp2.0\Grader.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Grader\obj\Debug\netcoreapp2.0\Grader.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Grader\obj\Debug\netcoreapp2.0\Grader.pdb

@@ -1,0 +1,10 @@
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Find the Max and Min\bin\Debug\netcoreapp2.0\Find the Max and Min.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Find the Max and Min\bin\Debug\netcoreapp2.0\Find the Max and Min.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Find the Max and Min\bin\Debug\netcoreapp2.0\Find the Max and Min.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Find the Max and Min\bin\Debug\netcoreapp2.0\Find the Max and Min.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Find the Max and Min\bin\Debug\netcoreapp2.0\Find the Max and Min.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Find the Max and Min\obj\Debug\netcoreapp2.0\Find the Max and Min.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Find the Max and Min\obj\Debug\netcoreapp2.0\Find the Max and Min.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Find the Max and Min\obj\Debug\netcoreapp2.0\Find the Max and Min.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Find the Max and Min\obj\Debug\netcoreapp2.0\Find the Max and Min.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Find the Max and Min\obj\Debug\netcoreapp2.0\Find the Max and Min.pdb

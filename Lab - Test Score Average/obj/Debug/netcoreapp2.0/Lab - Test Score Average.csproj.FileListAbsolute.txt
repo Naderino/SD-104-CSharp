@@ -1,0 +1,11 @@
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab 5\bin\Debug\netcoreapp2.0\Lab - Test Score Average.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab 5\bin\Debug\netcoreapp2.0\Lab - Test Score Average.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab 5\bin\Debug\netcoreapp2.0\Lab - Test Score Average.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab 5\bin\Debug\netcoreapp2.0\Lab - Test Score Average.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab 5\bin\Debug\netcoreapp2.0\Lab - Test Score Average.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab 5\obj\Debug\netcoreapp2.0\Lab - Test Score Average.csprojResolveAssemblyReference.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab 5\obj\Debug\netcoreapp2.0\Lab - Test Score Average.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab 5\obj\Debug\netcoreapp2.0\Lab - Test Score Average.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab 5\obj\Debug\netcoreapp2.0\Lab - Test Score Average.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab 5\obj\Debug\netcoreapp2.0\Lab - Test Score Average.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab 5\obj\Debug\netcoreapp2.0\Lab - Test Score Average.pdb

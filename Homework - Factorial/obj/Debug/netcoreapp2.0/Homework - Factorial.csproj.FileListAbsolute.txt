@@ -1,0 +1,22 @@
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\HW3 - Factorial Lab\bin\Debug\netcoreapp2.0\Homework - Factorial.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\HW3 - Factorial Lab\bin\Debug\netcoreapp2.0\Homework - Factorial.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\HW3 - Factorial Lab\bin\Debug\netcoreapp2.0\Homework - Factorial.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\HW3 - Factorial Lab\bin\Debug\netcoreapp2.0\Homework - Factorial.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\HW3 - Factorial Lab\bin\Debug\netcoreapp2.0\Homework - Factorial.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\HW3 - Factorial Lab\obj\Debug\netcoreapp2.0\Homework - Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\HW3 - Factorial Lab\obj\Debug\netcoreapp2.0\Homework - Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\HW3 - Factorial Lab\obj\Debug\netcoreapp2.0\Homework - Factorial.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\HW3 - Factorial Lab\obj\Debug\netcoreapp2.0\Homework - Factorial.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\HW3 - Factorial Lab\obj\Debug\netcoreapp2.0\Homework - Factorial.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\HW3 - Factorial Lab\obj\Debug\netcoreapp2.0\Homework - Factorial.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - Factorial\bin\Debug\netcoreapp2.0\Homework - Factorial.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - Factorial\bin\Debug\netcoreapp2.0\Homework - Factorial.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - Factorial\bin\Debug\netcoreapp2.0\Homework - Factorial.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - Factorial\bin\Debug\netcoreapp2.0\Homework - Factorial.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - Factorial\bin\Debug\netcoreapp2.0\Homework - Factorial.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - Factorial\obj\Debug\netcoreapp2.0\Homework - Factorial.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab4\bin\Debug\netcoreapp2.0\Conversion Class.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab4\bin\Debug\netcoreapp2.0\Conversion Class.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab4\bin\Debug\netcoreapp2.0\Conversion Class.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab4\bin\Debug\netcoreapp2.0\Conversion Class.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab4\bin\Debug\netcoreapp2.0\Conversion Class.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab4\obj\Debug\netcoreapp2.0\Conversion Class.csprojResolveAssemblyReference.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab4\obj\Debug\netcoreapp2.0\Conversion Class.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab4\obj\Debug\netcoreapp2.0\Conversion Class.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab4\obj\Debug\netcoreapp2.0\Conversion Class.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab4\obj\Debug\netcoreapp2.0\Conversion Class.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab4\obj\Debug\netcoreapp2.0\Conversion Class.pdb

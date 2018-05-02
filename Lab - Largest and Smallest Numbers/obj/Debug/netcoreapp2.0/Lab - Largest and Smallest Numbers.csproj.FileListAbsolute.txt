@@ -1,0 +1,11 @@
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab - Largest and Smallest Numbers\bin\Debug\netcoreapp2.0\Lab - Largest and Smallest Numbers.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab - Largest and Smallest Numbers\bin\Debug\netcoreapp2.0\Lab - Largest and Smallest Numbers.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab - Largest and Smallest Numbers\bin\Debug\netcoreapp2.0\Lab - Largest and Smallest Numbers.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab - Largest and Smallest Numbers\bin\Debug\netcoreapp2.0\Lab - Largest and Smallest Numbers.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab - Largest and Smallest Numbers\bin\Debug\netcoreapp2.0\Lab - Largest and Smallest Numbers.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab - Largest and Smallest Numbers\obj\Debug\netcoreapp2.0\Lab - Largest and Smallest Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab - Largest and Smallest Numbers\obj\Debug\netcoreapp2.0\Lab - Largest and Smallest Numbers.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab - Largest and Smallest Numbers\obj\Debug\netcoreapp2.0\Lab - Largest and Smallest Numbers.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab - Largest and Smallest Numbers\obj\Debug\netcoreapp2.0\Lab - Largest and Smallest Numbers.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab - Largest and Smallest Numbers\obj\Debug\netcoreapp2.0\Lab - Largest and Smallest Numbers.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab - Largest and Smallest Numbers\obj\Debug\netcoreapp2.0\Lab - Largest and Smallest Numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\bin\Debug\netcoreapp2.0\Lab - Average of Bats.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\bin\Debug\netcoreapp2.0\Lab - Average of Bats.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\bin\Debug\netcoreapp2.0\Lab - Average of Bats.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\bin\Debug\netcoreapp2.0\Lab - Average of Bats.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\bin\Debug\netcoreapp2.0\Lab - Average of Bats.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\obj\Debug\netcoreapp2.0\Lab - Average of Bats.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\obj\Debug\netcoreapp2.0\Lab - Average of Bats.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\obj\Debug\netcoreapp2.0\Lab - Average of Bats.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\obj\Debug\netcoreapp2.0\Lab - Average of Bats.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\obj\Debug\netcoreapp2.0\Lab - Average of Bats.pdb

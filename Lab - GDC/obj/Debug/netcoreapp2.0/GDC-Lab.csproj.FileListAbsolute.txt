@@ -1,0 +1,10 @@
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\GDC-Lab\bin\Debug\netcoreapp2.0\GDC-Lab.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\GDC-Lab\bin\Debug\netcoreapp2.0\GDC-Lab.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\GDC-Lab\bin\Debug\netcoreapp2.0\GDC-Lab.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\GDC-Lab\bin\Debug\netcoreapp2.0\GDC-Lab.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\GDC-Lab\bin\Debug\netcoreapp2.0\GDC-Lab.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\GDC-Lab\obj\Debug\netcoreapp2.0\GDC-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\GDC-Lab\obj\Debug\netcoreapp2.0\GDC-Lab.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\GDC-Lab\obj\Debug\netcoreapp2.0\GDC-Lab.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\GDC-Lab\obj\Debug\netcoreapp2.0\GDC-Lab.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\GDC-Lab\obj\Debug\netcoreapp2.0\GDC-Lab.pdb

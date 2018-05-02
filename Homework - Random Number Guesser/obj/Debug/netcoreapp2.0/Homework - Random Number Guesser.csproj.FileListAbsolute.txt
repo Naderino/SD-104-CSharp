@@ -1,0 +1,10 @@
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Modulo Function\bin\Debug\netcoreapp2.0\Homework - Random Number Guesser.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Modulo Function\bin\Debug\netcoreapp2.0\Homework - Random Number Guesser.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Modulo Function\bin\Debug\netcoreapp2.0\Homework - Random Number Guesser.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Modulo Function\bin\Debug\netcoreapp2.0\Homework - Random Number Guesser.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Modulo Function\bin\Debug\netcoreapp2.0\Homework - Random Number Guesser.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Modulo Function\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Modulo Function\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Modulo Function\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Modulo Function\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Modulo Function\obj\Debug\netcoreapp2.0\Homework - Random Number Guesser.pdb

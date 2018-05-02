@@ -1,0 +1,11 @@
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\bin\Debug\netcoreapp2.0\Lab1.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\bin\Debug\netcoreapp2.0\Lab1.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\bin\Debug\netcoreapp2.0\Lab1.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\obj\Debug\netcoreapp2.0\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\obj\Debug\netcoreapp2.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\obj\Debug\netcoreapp2.0\Lab1.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Lab1\obj\Debug\netcoreapp2.0\Lab1.pdb
