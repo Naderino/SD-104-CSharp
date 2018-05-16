@@ -8,3 +8,14 @@ C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\War\obj\Debug\netcoreapp2.0\
 C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\War\obj\Debug\netcoreapp2.0\Homework - War.AssemblyInfo.cs
 C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\War\obj\Debug\netcoreapp2.0\Homework - War.dll
 C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\War\obj\Debug\netcoreapp2.0\Homework - War.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - War\obj\Debug\netcoreapp2.0\Homework - War.csprojResolveAssemblyReference.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - War\obj\Debug\netcoreapp2.0\Homework - War.csproj.CoreCompileInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - War\obj\Debug\netcoreapp2.0\Homework - War.AssemblyInfoInputs.cache
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - War\obj\Debug\netcoreapp2.0\Homework - War.AssemblyInfo.cs
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - War\obj\Debug\netcoreapp2.0\Homework - War.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - War\obj\Debug\netcoreapp2.0\Homework - War.pdb
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - War\bin\Debug\netcoreapp2.0\Homework - War.deps.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - War\bin\Debug\netcoreapp2.0\Homework - War.runtimeconfig.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - War\bin\Debug\netcoreapp2.0\Homework - War.runtimeconfig.dev.json
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - War\bin\Debug\netcoreapp2.0\Homework - War.dll
+C:\Users\Nader Moudarres\source\repos\SD-104-CSharp\Homework - War\bin\Debug\netcoreapp2.0\Homework - War.pdb

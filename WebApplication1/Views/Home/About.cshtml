@@ -1,0 +1,30 @@
+﻿@model List<WebApplication1.Models.Monster>
+<html>
+<body>
+    <div>
+        <br/>
+        <table>
+            <tr class="text-center">
+                <th class="text-center">Monster Name:</th>
+                <th class="text-center">Level:</th>
+                <th class="text-center">Health:</th>
+                <th class="text-center">Attack Power:</th>
+                <th class="text-center">Range:</th>
+            </tr>
+
+
+            @foreach (WebApplication1.Models.Monster monster in Model)
+            {
+                <tr class="text-center">
+                    <td> @monster.name </td>
+                    <td> @monster.level </td>
+                    <td> @monster.health </td>
+                    <td> @monster.attackPower</td>
+                    <td> @monster.range</td>
+                </tr>
+            }
+        </table>
+        </div>
+</body>
+</html>
+<h2>About</h2>

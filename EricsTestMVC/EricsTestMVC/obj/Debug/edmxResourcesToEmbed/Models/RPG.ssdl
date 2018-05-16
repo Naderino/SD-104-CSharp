@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RPGGameModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Hero">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Health" Type="int" Nullable="false" />
+    <Property Name="LVL" Type="int" Nullable="false" />
+    <Property Name="AttackPower" Type="int" Nullable="false" />
+    <Property Name="CurrentEXP" Type="int" />
+    <Property Name="Name" Type="varchar" MaxLength="250" />
+    <Property Name="Alive" Type="tinyint" />
+    <Property Name="Weapon" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'RPGGameEric.dbo.Monster' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Monster">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Name" />
+      <PropertyRef Name="Health" />
+      <PropertyRef Name="LVL" />
+      <PropertyRef Name="AttackPower" />
+      <PropertyRef Name="Alive" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Health" Type="int" Nullable="false" />
+    <Property Name="LVL" Type="int" Nullable="false" />
+    <Property Name="AttackPower" Type="int" Nullable="false" />
+    <Property Name="Alive" Type="tinyint" Nullable="false" />
+    <Property Name="WeaponID" Type="int" />
+  </EntityType>
+  <EntityType Name="Weapon">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="250" />
+    <Property Name="AttackValue" Type="int" />
+    <Property Name="AttackModifier" Type="int" />
+    <Property Name="Hands" Type="tinyint" />
+  </EntityType>
+  <Association Name="FK_Hero_Weapon">
+    <End Role="Weapon" Type="Self.Weapon" Multiplicity="0..1" />
+    <End Role="Hero" Type="Self.Hero" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Weapon">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Hero">
+        <PropertyRef Name="Weapon" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Monster_Weapon">
+    <End Role="Weapon" Type="Self.Weapon" Multiplicity="0..1" />
+    <End Role="Monster" Type="Self.Monster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Weapon">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Monster">
+        <PropertyRef Name="WeaponID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RPGGameModelStoreContainer">
+    <EntitySet Name="Hero" EntityType="Self.Hero" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Weapon" EntityType="Self.Weapon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Monster" EntityType="Self.Monster" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Monster].[ID] AS [ID], 
+    [Monster].[Name] AS [Name], 
+    [Monster].[Health] AS [Health], 
+    [Monster].[LVL] AS [LVL], 
+    [Monster].[AttackPower] AS [AttackPower], 
+    [Monster].[Alive] AS [Alive], 
+    [Monster].[WeaponID] AS [WeaponID]
+    FROM [dbo].[Monster] AS [Monster]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_Hero_Weapon" Association="Self.FK_Hero_Weapon">
+      <End Role="Weapon" EntitySet="Weapon" />
+      <End Role="Hero" EntitySet="Hero" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Monster_Weapon" Association="Self.FK_Monster_Weapon">
+      <End Role="Weapon" EntitySet="Weapon" />
+      <End Role="Monster" EntitySet="Monster" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

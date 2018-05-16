@@ -1,0 +1,50 @@
+﻿@model WebApplication1.Models.Hero
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Hero</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.health)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.health)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.level)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.level)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.attackPower)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.attackPower)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.currentExp)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.currentExp)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

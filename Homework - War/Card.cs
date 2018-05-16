@@ -4,18 +4,21 @@ using System.Text;
 
 namespace War
 {
+    enum Rank { Ace = 1, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King };
+    enum Suit { Hearts = 1, Diamonds, Clubs, Spades };
+
     class Card
     {
-        int rank;
-        int suit;
+        Rank rank;
+        Suit suit;
 
         public Card()
         {
-            rank = 1;
-            suit = 4;
+            rank = Rank.Ace;
+            suit = Suit.Spades;
         }
 
-        public Card(int rank, int suit)
+        public Card(Rank rank, Suit suit)
         {
             this.rank = rank;
             this.suit = suit;
@@ -96,42 +99,42 @@ namespace War
 
             switch(this.rank)
             {
-                case 1: text = "Ace";                        
+                case Rank.Ace: text = "Ace";                        
                         break;
-                case 2:
+                case Rank.Two:
                     text = "Two";
                     break;
-                case 3:
+                case Rank.Three:
                     text = "Three";
                     break;
-                case 4:
+                case Rank.Four:
                     text = "Four";
                     break;
-                case 5:
+                case Rank.Five:
                     text = "Five";
                     break;
-                case 6:
+                case Rank.Six:
                     text = "Six";
                     break;
-                case 7:
+                case Rank.Seven:
                     text = "Seven";
                     break;
-                case 8:
+                case Rank.Eight:
                     text = "Eight";
                     break;
-                case 9:
+                case Rank.Nine:
                     text = "Nine";
                     break;
-                case 10:
+                case Rank.Ten:
                     text = "Ten";
                     break;
-                case 11:
+                case Rank.Jack:
                     text = "Jack";
                     break;
-                case 12:
+                case Rank.Queen:
                     text = "Queen";
                     break;
-                case 13:
+                case Rank.King:
                     text = "King";
                     break;
                 default: break;
@@ -139,15 +142,15 @@ namespace War
 
             switch (this.suit)
             {
-                case 1: text += " of Hearts";
+                case Suit.Hearts: text += " of Hearts";
                         break;
-                case 2:
+                case Suit.Diamonds:
                     text += " of Diamonds";
                     break;
-                case 3:
+                case Suit.Clubs:
                     text += " of Clubs";
                     break;
-                case 4:
+                case Suit.Spades:
                     text += " of Spades";
                     break;
             }

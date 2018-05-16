@@ -12,11 +12,11 @@ namespace War
         public Deck()
         {
             theCards = new List<Card>();
-            for(int count = 1; count <= 4; count++)
+            for(Suit suit = Suit.Hearts; suit <= Suit.Spades; suit++)
             {
-                for (int count2 = 1; count2 <= 13; count2++)
+                for (Rank rank = Rank.Ace; rank <= Rank.King; rank++)
                 {
-                    Card card = new Card(count2, count);
+                    Card card = new Card(rank, suit);
                     theCards.Add(card);
                 }
             }

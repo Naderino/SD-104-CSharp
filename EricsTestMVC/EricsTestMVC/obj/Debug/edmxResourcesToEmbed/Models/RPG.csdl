@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RPGGameModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="RPGGameEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Heroes" EntityType="RPGGameModel.Hero" />
+    <EntitySet Name="Weapons" EntityType="RPGGameModel.Weapon" />
+    <AssociationSet Name="FK_Hero_Weapon" Association="RPGGameModel.FK_Hero_Weapon">
+      <End EntitySet="Weapons" Role="Weapon" />
+      <End EntitySet="Heroes" Role="Hero" />
+    </AssociationSet>
+    <EntitySet Name="Monsters" EntityType="RPGGameModel.Monster" />
+    <AssociationSet Name="FK_Monster_Weapon" Association="RPGGameModel.FK_Monster_Weapon">
+      <End Role="Weapon" EntitySet="Weapons" />
+      <End Role="Monster" EntitySet="Monsters" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Hero">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Health" Type="Int32" Nullable="false" />
+    <Property Name="LVL" Type="Int32" Nullable="false" />
+    <Property Name="AttackPower" Type="Int32" Nullable="false" />
+    <Property Name="CurrentEXP" Type="Int32" />
+    <Property Name="Name" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Alive" Type="Byte" />
+    <Property Name="Weapon" Type="Int32" />
+    <NavigationProperty Name="Weapon1" Relationship="RPGGameModel.FK_Hero_Weapon" FromRole="Hero" ToRole="Weapon" />
+  </EntityType>
+  <EntityType Name="Weapon">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="AttackValue" Type="Int32" />
+    <Property Name="Hands" Type="Byte" />
+    <Property Name="AttackModifier" Type="Int32" />
+    <NavigationProperty Name="Heroes" Relationship="RPGGameModel.FK_Hero_Weapon" FromRole="Weapon" ToRole="Hero" />
+    <NavigationProperty Name="Monsters" Relationship="RPGGameModel.FK_Monster_Weapon" FromRole="Weapon" ToRole="Monster" />
+  </EntityType>
+  <Association Name="FK_Hero_Weapon">
+    <End Type="RPGGameModel.Weapon" Multiplicity="0..1" Role="Weapon" />
+    <End Type="RPGGameModel.Hero" Multiplicity="*" Role="Hero" />
+    <ReferentialConstraint>
+      <Principal Role="Weapon">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Hero">
+        <PropertyRef Name="Weapon" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Monster">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Name" />
+      <PropertyRef Name="Health" />
+      <PropertyRef Name="LVL" />
+      <PropertyRef Name="AttackPower" />
+      <PropertyRef Name="Alive" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Health" Type="Int32" Nullable="false" />
+    <Property Name="LVL" Type="Int32" Nullable="false" />
+    <Property Name="AttackPower" Type="Int32" Nullable="false" />
+    <Property Name="Alive" Type="Byte" Nullable="false" />
+    <Property Name="WeaponID" Type="Int32" />
+    <NavigationProperty Name="Weapon" Relationship="RPGGameModel.FK_Monster_Weapon" FromRole="Monster" ToRole="Weapon" />
+  </EntityType>
+  <Association Name="FK_Monster_Weapon">
+    <End Type="RPGGameModel.Weapon" Role="Weapon" Multiplicity="0..1" />
+    <End Type="RPGGameModel.Monster" Role="Monster" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Weapon">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Monster">
+        <PropertyRef Name="WeaponID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
